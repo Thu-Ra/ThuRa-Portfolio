@@ -1,0 +1,24 @@
+@font-face{
+	font-family: 'lb';
+	src:url('font/Libre-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'pt';
+	src:url('font/PTSans-Regular.ttf');
+}
+
+.font1{
+	font-family: 'lb';
+}
+
+.bgcolor{
+	background-color: #ccccff;
+}
+
+.myp{
+	border-radius: 100px;
+	
+}
+
+
